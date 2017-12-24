@@ -1,0 +1,7 @@
+﻿  mine2.c
+c:\users\user\desktop\שולה מוקשים חיצים-20171224t123101z-001\שולה מוקשים חיצים\consoleapplication1\mine2.c(226): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\user\desktop\שולה מוקשים חיצים-20171224t123101z-001\שולה מוקשים חיצים\consoleapplication1\mine2.c(250): warning C4013: 'getch' undefined; assuming extern returning int
+c:\users\user\desktop\שולה מוקשים חיצים-20171224t123101z-001\שולה מוקשים חיצים\consoleapplication1\mine2.c(286): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\user\Desktop\שולה מוקשים חיצים-20171224T123101Z-001\שולה מוקשים חיצים\x64\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\user\Desktop\שולה מוקשים חיצים-20171224T123101Z-001\שולה מוקשים חיצים\x64\Debug\ConsoleApplication1.pdb (Partial PDB)
